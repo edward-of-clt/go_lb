@@ -1,0 +1,12 @@
+---
+host: localhost
+scheme: 'http'
+servers:
+  - name: 10.1.202.32
+    scheme: http
+    host: 10.1.202.32
+    port: 80
+  - name: 10.1.202.69
+    scheme: http
+    host: 10.1.202.69
+    port: 80
